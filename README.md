@@ -1,4 +1,4 @@
-## Hi there what's up guy...👋
+## Hi there👋
 
 <!--
 **huon-thanun/huon-thanun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
