@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-🎓 Year 3 Computer Science Student
+🎓 Year 4 Computer Science Student
 
 💡 Passionate about Web Development, Software Engineering, and Artificial Intelligence
 
@@ -121,18 +121,6 @@ Artificial Intelligence █████████░░░░░░░ 60%
 * 🤖 Learn Machine Learning fundamentals
 * ☁️ Explore Cloud Technologies
 * 📱 Create modern web applications
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
-
-</div>
 
 ---
 
